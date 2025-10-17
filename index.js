@@ -1,1 +1,1 @@
-console.log("sadiqa intelligent");
+console.log("codex");
